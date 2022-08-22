@@ -1,5 +1,5 @@
 import React from "react";
-import {useMatch} from 'react-router-dom';
+import {withRouter} from 'react-router-dom';
 
 import './menu-item.styles.scss'
 
@@ -16,4 +16,4 @@ const MenuItem= ({title, imageUrl, size, history, linkUrl , match}) => (
     </div>
 )
 
-export default useMatch (MenuItem);
+export default withRouter  (MenuItem);
