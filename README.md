@@ -1,3 +1,7 @@
+This is an ecommerce app biuilt with React javascript and flutter and includes a Payment syste with stripe
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
