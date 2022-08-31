@@ -1,7 +1,7 @@
 
 This is a full ecommerce app biuilt with React javascript and flutter and includes a Payment syste with stripe
 # Hosted at 
-##https://jk-clothing.netlify.app/
+https://jk-clothing.netlify.app/
 
 
 # Getting Started with Create React App
