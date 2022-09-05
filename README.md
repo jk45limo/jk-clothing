@@ -1,5 +1,5 @@
 
-This is a full ecommerce app biuilt with React javascript and flutter and includes a Payment syste with stripe
+This is a full ecommerce app built with React javascript and flutter and includes a Payment syste with stripe
 # Hosted at 
 https://jk-clothing.netlify.app/
 
